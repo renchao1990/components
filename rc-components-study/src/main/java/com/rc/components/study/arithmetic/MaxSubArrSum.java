@@ -1,6 +1,5 @@
 package com.rc.components.study.arithmetic;
 
-import java.util.Arrays;
 import java.util.Random;
 
 /**
